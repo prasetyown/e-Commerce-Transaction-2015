@@ -11,7 +11,7 @@ And in the second pages, there are transaction geo chart, shipping mode, order p
 I have uploaded this dashboard in my Google Looker Studio, here's the link
 https://datastudio.google.com/reporting/10f2c0c2-835b-4c64-90db-a81d7783f09c
 
-![My Image](https://github.com/prasetyown/e-Commerce-Transaction-2015/blob/master/images/1pg.JPG){:height="200" width="300"}
+![alt_text](https://github.com/prasetyown/e-Commerce-Transaction-2015/blob/master/images/2pg.JPG){:height="50%" width="50%"}
 
 
 
